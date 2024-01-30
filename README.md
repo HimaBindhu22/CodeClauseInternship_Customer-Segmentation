@@ -1,0 +1,2 @@
+# CodeClauseInternship_Customer-Segmentation
+Customer Segmentation System
